@@ -1,0 +1,21 @@
+To do  list:
+-Valideringsmetode for å sjekke gjyldig trekk []
+  -Bare knight kan hoppe over brikker []
+  -Hvis det er en brikke på en plass, kan man bare gå dit dersom den er av annen farge []
+  -Rook, bare x eller y kan endre seg, ikke begge. []
+  -Queen. x og y er samme eller bare x og y[]
+  -King, en x eller y eller en x lik y[]
+  -Pawn. første steg 2y eller 1y og andre steg 1y. Kan ikke gå frem, men slå sidelengs. Kan ikke gå bakover (posiitiv eller negativ y avhengig av farge)[]
+  -Knight. En av x eller y endres 1 og den andre 2[]
+  -Bishop. x og y endres likt[]
+  -Sjekke om brikke er på brett[]
+
+-Movement:[]
+  -Legge til movement i hver klasse[]
+  -Tar inn koordinat, og sjekker om det er valid move[]
+  
+-Stockfish:[]
+  -Gjøre om til FEN format[]
+  
+  
+-
